@@ -1,6 +1,6 @@
 # crud-vue-firebase
 
-> example simple crud in vue and firebase
+> example simple crud in vue and firebase, live demo [here](https://kusillus.github.io/crud-vuefirebase/)
 
 ## Build Setup
 
